@@ -16,13 +16,13 @@ The goal is not to claim that one model represents all LLMs, but to develop a si
 
 The experiment used:
 
-- Model: Qwen/Qwen2.5-1.5B-Instruct
-- Inference framework: Hugging Face Transformers
-- Hardware: CPU
-- Questions: 5 factual questions
-- Conditions: 3
-- Total trials: 15
-- Generation: deterministic
+* Model: Qwen/Qwen2.5-1.5B-Instruct
+* Inference framework: Hugging Face Transformers
+* Hardware: CPU
+* Questions: 5 factual questions
+* Conditions: 3
+* Total trials: 15
+* Generation: deterministic
 
 Each question was tested under three conditions.
 
